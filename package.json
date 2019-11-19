@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "MySample",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanushree S K",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.2"
+  }
+}
